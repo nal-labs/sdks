@@ -1,5 +1,5 @@
-import {permit2Address} from "@uniswap/permit2-sdk";
-import {ChainId} from "@uniswap/sdk-core";
+import { permit2Address } from '@uniswap/permit2-sdk'
+import { ChainId } from '@uniswap/sdk-core'
 import { UNIVERSAL_ROUTER_ADDRESS } from '../../src/utils/constants'
 
 export const MAINNET_ROUTER_ADDRESS = UNIVERSAL_ROUTER_ADDRESS(1)
