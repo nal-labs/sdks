@@ -134,14 +134,23 @@ const OPTIMISM_SEPOLIA_ADDRESSES: ChainAddresses = {
 
 // nal sepolia v3 addresses
 const NAL_SEPOLIA_ADDRESSES: ChainAddresses = {
-  v3CoreFactoryAddress: '0xBe9DCC6568A3d0400565B03dC6bDcf6A45796c8A',
-  multicallAddress: '0x67CcD3d2226232bD588b200e3536B9bc8714c162',
-  quoterAddress: '0x7166D03c1Eac1220B8d9497b2c00d4e976BccF3d',
-  v3MigratorAddress: '0xBccb02047740e7b3Fb53c4E98E8e68962eb14627',
-  nonfungiblePositionManagerAddress: '0x9C3286eB70D1ECEE0E45721F2908648B48db79f9',
-  tickLensAddress: '0xF63502001e208A5346D2C545dbE4f682C82F0b71',
-  swapRouter02Address: '0x9EEd02bF15CDD0a146a0F889a2Ba54E36c327736',
+  v3CoreFactoryAddress: '0x342b695606d707E5AF6CaA2b6503763038958BA7',
+  multicallAddress: '0xF5e332D6Ba8097872fE7052671e81972BDFd5CA3',
+  quoterAddress: '0x2308aCa0c11753E1cA96c007A442B46Ce1946Cdb',
+  v3MigratorAddress: '0xdF8181C76b362F6Ec1811cCB1DB597D54Fd4C5A1',
+  nonfungiblePositionManagerAddress: '0xA3D31f8987c2278581f6ADE2a95DCCFA85C5222a',
+  tickLensAddress: '0xE7C068eF6fea07AeA970578a594F4DC52b5Edf14',
+  swapRouter02Address: '0xe6C3f35be18fC5075Aa467a9bc5E2a2aDf3A9d4B',
 }
+// const NAL_SEPOLIA_ADDRESSES_SELFLC: ChainAddresses = {
+//   v3CoreFactoryAddress: '0xBe9DCC6568A3d0400565B03dC6bDcf6A45796c8A',
+//   multicallAddress: '0x67CcD3d2226232bD588b200e3536B9bc8714c162',
+//   quoterAddress: '0x7166D03c1Eac1220B8d9497b2c00d4e976BccF3d',
+//   v3MigratorAddress: '0xBccb02047740e7b3Fb53c4E98E8e68962eb14627',
+//   nonfungiblePositionManagerAddress: '0x9C3286eB70D1ECEE0E45721F2908648B48db79f9',
+//   tickLensAddress: '0xF63502001e208A5346D2C545dbE4f682C82F0b71',
+//   swapRouter02Address: '0x9EEd02bF15CDD0a146a0F889a2Ba54E36c327736',
+// }
 
 // arbitrum goerli v3 addresses
 const ARBITRUM_GOERLI_ADDRESSES: ChainAddresses = {
