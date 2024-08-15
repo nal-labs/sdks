@@ -51,6 +51,14 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
     weth: '0x4200000000000000000000000000000000000006',
     creationBlock: 8887728,
   },
+  // nal
+  [328527]: {
+    router: '0x286CEa37d915CdBecA8C0D87CB989c646E8811f9',
+    // router_selflc: '0xac9bb35326e4f89Fe9827785d4a011051BD9247F',
+    weth: '0x4200000000000000000000000000000000000006',
+    creationBlock: 3211715,
+    // creationBlock_selflc: 2722840,
+  },
   // nal sepolia
   [328527624]: {
     router: '0x286CEa37d915CdBecA8C0D87CB989c646E8811f9',
