@@ -53,19 +53,15 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
   },
   // nal
   [328527]: {
-    router: '0x286CEa37d915CdBecA8C0D87CB989c646E8811f9',
-    // router_selflc: '0xac9bb35326e4f89Fe9827785d4a011051BD9247F',
+    router: '0x4b4D385078137669DeA108df9801e0f86E6883BE',
     weth: '0x4200000000000000000000000000000000000006',
-    creationBlock: 3211715,
-    // creationBlock_selflc: 2722840,
+    creationBlock: 2173732,
   },
   // nal sepolia
   [328527624]: {
     router: '0x286CEa37d915CdBecA8C0D87CB989c646E8811f9',
-    // router_selflc: '0xac9bb35326e4f89Fe9827785d4a011051BD9247F',
     weth: '0x4200000000000000000000000000000000000006',
-    creationBlock: 3211715,
-    // creationBlock_selflc: 2722840,
+    creationBlock: 3338874,
   },
   // arbitrum
   [42161]: {
